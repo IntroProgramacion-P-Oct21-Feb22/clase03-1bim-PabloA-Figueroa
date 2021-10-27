@@ -17,7 +17,8 @@ public class Ejemplo06 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("----------------");
-        System.out.println(10>3);
+        boolean a = 10>3;
+        System.out.println(a);
         
         System.out.println("----------------");
         System.out.println(10>=11);
